@@ -1,5 +1,7 @@
 # Security policy
 
-If you discover a security vulnerability in a Tarifix project, please do not open a public issue.
+Pokud objevíte bezpečnostní problém související s produktem nebo webem Tarifixu, napište nám na [jsme@tarifix.cz](mailto:jsme@tarifix.cz).
 
-Email [jsme@tarifix.cz](mailto:jsme@tarifix.cz) with a clear description and relevant steps to reproduce. We will acknowledge the report and coordinate a responsible resolution.
+Do zprávy stručně popište problém, kroky k jeho zopakování a případný dopad. Neposílejte hesla, přístupové údaje ani zbytečné osobní údaje.
+
+Neveřejné nahlášení problému nám dává prostor jej bezpečně vyřešit dříve, než bude zveřejněn.
